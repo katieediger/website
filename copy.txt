@@ -1,10 +1,33 @@
-My name is Katie Ediger and I am a User Experience Librarian. I work at the
-Illinois Institute of Technology (IIT) where I try to make the library easy and
-intuitive for everyone to use.
+My name is Katie Ediger and I am a User Experience (UX) Librarian at the
+Illinois Institute of Technology (IIT). I try to make the library's services and
+spaces more responsive to everyone's needs.
 
 I have a degree in Anthropology from Beloit College and a Masters in Library
-and Information Science from Dominican University. I'm currently working on a
-second masters degree in Information Architecture from IIT.
+and Information Science from Dominican University. After completing my
+undergraduate degree, I served as a Peace Corps Volunteer in Peru. I lived and
+worked in a tiny town in the foothills of the Andes, called Laquipampa. When I
+came back to the United States, I knew that I wanted a career where I was
+working directly with people in some sort of service environment. I worked in
+several nonprofit positions before I found my calling as a librarian.
 
-When I'm not at work or in class, you will probably find me roaming around
-Chicago looking for good food or exciting ally finds.
+I got my start in the library field at Northeastern Illinois University (NEIU).
+I managed the library at NEIU's El Centro campus. I also supported a wide range
+of departments, including Social Work, Computer Science, and Geography and
+Environmental Studies, through library instruction and collection development.
+
+As a librarian I spend a lot of my time helping people connect with and
+understand technology. At IIT, and previously at NEIU, I use Drupal to manage
+the library's web presence. There are normally a lot of moving parts, as
+well as many stakeholders, with an institutional website. At NEIU I worked with
+other librarians to do user testing for the library website. Based on the
+testing, we made changes to better meet the needs of our university community.
+Watching people use the website and having them talk through their experiences
+was immensely helpful for seeing issues or problems with the site that we had
+never noticed before.
+
+I'm currently working on a second masters degree in Information Architecture
+from IIT. I'm in the program to advance my technical skills and to more formally
+study user experience. I am also excited to hear and understand perspectives
+outside of the library world. When I'm not at work or in class, you will
+probably find me roaming around Chicago looking for good food or exciting alley
+finds.
