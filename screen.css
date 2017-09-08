@@ -52,11 +52,12 @@ table {
 html {
   font-size: 10px;
   font-family: 'Open Sans', sans-serif;
-	background-color: white
+	background-color: white;
+	display: inline-flex;
 }
 
 body {
-	width: 600px;
+	width: 70%;
 	margin: 0 auto;
 	padding: 0 10px 10px 10px;
 }
