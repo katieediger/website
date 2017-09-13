@@ -52,7 +52,10 @@ table {
 /* Using modular scale http://www.modularscale.com/?18&px&1.667 */
 
 html {
-  font-size: 1.125em; /* 18 /16 = 1.25 */
+  -moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%; 
+	font-size: 1.125em; /* 18 /16 = 1.25 */
 	line-height: 1.22222em; /* 22 / 19 = 1.222... aka 122%*/
   font-family: 'Open Sans', sans-serif;
 	background-color: white;
