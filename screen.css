@@ -49,10 +49,30 @@ table {
 
 /* End Reset CSS */
 /* Begin Site Styles */
+/* Using modular scale http://www.modularscale.com/?18&px&1.667 */
+
 html {
-  font-size: 100%;
+  font-size: 1.125em; /* 18 /16 = 1.25 */
+	line-height: 1.22222em; /* 22 / 19 = 1.222... aka 122%*/
   font-family: 'Open Sans', sans-serif;
 	background-color: white;
+	padding-top: 2.44444; /* 44/ 18 = 2.44444*/
+	padding-left: 1.22222em;
+	padding-right: 1.22222em;
+}
+
+figure, p {
+	padding-bottom: 1.22222em;
+}
+
+h1 {
+	font-size: 2.778em; /* 50.02 px/ 18px = 2.778*/
+	line-height: 1.22222em;
+	text-align: center;
+}
+
+h1 + p {
+	text-indent: 0;
 }
 
 body {
@@ -61,14 +81,7 @@ body {
 	padding: 3% 10% 10% 10%;
 }
 
-h1 {
-	font-size: 200%;
-	text-align: center;
-	margin-bottom: 3%;
-}
-p {
-	font-size: 100%;
-	line-height: 2;
-	letter-spacing: 1px;
-	margin-bottom: 3%;
+/* responsive images */
+image {
+
 }
