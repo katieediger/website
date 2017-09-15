@@ -70,14 +70,18 @@ figure, p {
 	padding-bottom: 1.22222em;
 }
 
-p {
-	text-indent: 1.222222em;
-}
-
 h1 {
 	font-size: 2.778em; /* 50.02 px/ 18px = 2.778*/
 	line-height: 1.319em; /* 66px / 50.02px = 1.39em ; 3 gridlines (22px */
 	font-family: 'Montserrat', sans-serif;
+}
+
+p {
+	text-indent: 0;
+}
+
+h1 + p {
+	text-indent: 0;
 }
 
 body {
