@@ -76,14 +76,6 @@ h1 {
 	font-family: 'Montserrat', sans-serif;
 }
 
-p {
-	text-indent: 0;
-}
-
-h1 + p {
-	text-indent: 0;
-}
-
 body {
 	width: 70%;
 	margin: 0 auto;
