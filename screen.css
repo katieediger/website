@@ -51,6 +51,9 @@ table {
 /* Begin Site Styles */
 /* Using modular scale http://www.modularscale.com/?18&px&1.667 */
 
+/* Base */
+/* Simple, HTML / Element */
+
 html {
   text-rendering: optimizeLegibility;
 	-moz-text-size-adjust: 100%;
@@ -79,6 +82,26 @@ h1 {
 body {
 	margin: 0 auto;
 }
+
+/* Layout Styles */
+/* ID selectors (major landmark/global HTML structures) */
+#header {
+	/* Layout styles go here */
+}
+
+/* Modular styles */
+/* Class selectors, sometimes descendent/child selectors, repeating styles
+throughout the class site/page */
+.agenda {
+	/* Repeating styles */
+}
+.agenda > li {
+
+}
+/* State Styles */
+/* Javascript or media-query dependent styles */
+
+@media screen and (min-width: 680px)
 
 /* responsive images */
 img {
